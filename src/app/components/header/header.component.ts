@@ -11,4 +11,8 @@ export class HeaderComponent implements OnInit {
   constructor() {}
 
   ngOnInit(): void {}
+
+  AddTask() {
+    console.log('test');
+  }
 }
