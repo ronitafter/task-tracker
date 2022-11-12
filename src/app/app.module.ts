@@ -7,6 +7,8 @@ import { ButtonComponent } from './components/button/button.component';
 import { TasksComponent } from './components/tasks/tasks.component';
 import { TaskItemComponent } from './components/task-item/task-item.component';
 import { HttpClientModule } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
+import { AddTaskComponent } from './components/add-task/add-task.component';
 
 @NgModule({
   declarations: [
@@ -15,8 +17,9 @@ import { HttpClientModule } from '@angular/common/http';
     ButtonComponent,
     TasksComponent,
     TaskItemComponent,
+    AddTaskComponent,
   ],
-  imports: [BrowserModule, FontAwesomeModule, HttpClientModule],
+  imports: [BrowserModule, FontAwesomeModule, HttpClientModule, FormsModule],
   providers: [],
   bootstrap: [AppComponent],
 })
