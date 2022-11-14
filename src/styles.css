@@ -19,7 +19,8 @@ h1{
 		font-size: 40px;
 		font-weight: 800;
 		font-style: oblique;
-			background-color: rgb(202, 98, 98)
+			background-color: rgb(143, 202, 98)
+			/* //background-color: rgb(202, 98, 98) */
 
 
 }
@@ -36,7 +37,7 @@ body {
 	padding: 30px;
 	border-radius: 5px;
 	/* background: linear-gradient(#b464e6, #3e0752); */
-				background-color: rgb(254, 251, 251)
+				/* background-color: rgb(254, 251, 251) */
 }
 
 .btn {

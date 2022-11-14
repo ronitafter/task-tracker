@@ -8,7 +8,8 @@
 
 .task.reminder {
 	/* border-left: 10px solid rgb(0, 0, 0); */
-		border-left: 10px solid #eb5b65;
+		/* border-left: 10px solid #eb5b65; */
+		border-left: 10px solid rgb(143, 202, 98);
 }
 
 .task h3 {
