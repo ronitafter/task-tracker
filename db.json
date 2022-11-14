@@ -4,7 +4,7 @@
       "id": 1,
       "text": "coffee",
       "day": "May 5th at 2:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
@@ -21,7 +21,7 @@
     {
       "text": "testing 123",
       "day": "feb 4",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     }
   ]
